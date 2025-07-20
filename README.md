@@ -261,14 +261,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Vosk** for offline speech recognition
 - **LLaMA.cpp** for efficient model inference
 
-## 📞 Support
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/jarvis-ai/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/jarvis-ai/discussions)
-- **Wiki**: [Project Wiki](https://github.com/yourusername/jarvis-ai/wiki)
-
----
-
 **Made with ❤️ for the AI community**
 
 *JARVIS - Your Personal AI Assistant* 
