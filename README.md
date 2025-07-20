@@ -97,7 +97,7 @@ start_jarvis.bat
 | `jarvis open notepad` | Launch applications |
 | `jarvis system info` | System information |
 | `jarvis tts` | Toggle voice on/off |
-| `jarvis write a code in python for youtube video downlode` | Toggle voice on/off |
+| `jarvis write a code in python for youtube video downlode` |
 
 ### Voice Commands
 
