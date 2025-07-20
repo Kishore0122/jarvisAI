@@ -1,0 +1,31 @@
+{
+  "assistant": {
+    "name": "JARVIS",
+    "language": "en",
+    "debug_mode": false,
+    "log_level": "INFO",
+    "tts_enabled": true
+  },
+  "ai": {
+    "llm": {
+      "model": "mistral-7b-instruct-v0.2.Q4_K_M.gguf",
+      "model_path": "models/llm/mistral-7b-instruct-v0.2.Q4_K_M.gguf",
+      "max_tokens": 2048,
+      "temperature": 0.7,
+      "context_window": 4096
+    }
+  },
+  "tts": {
+    "enabled": true,
+    "default_engine": "pyttsx3",
+    "pyttsx3": {
+      "rate": 150,
+      "volume": 0.9,
+      "voice": "auto"
+    },
+    "coqui": {
+      "model": "tts_models/en/ljspeech/tacotron2-DDC",
+      "quality": "fast"
+    }
+  }
+}

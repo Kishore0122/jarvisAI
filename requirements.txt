@@ -1,0 +1,16 @@
+# Core dependencies for Mistral 7B LLM
+llama-cpp-python>=0.2.0
+numpy>=1.21.0
+requests>=2.25.0
+
+# TTS (Text-to-Speech) dependencies
+pyttsx3>=2.90
+TTS>=0.8.0
+pygame>=2.0.0
+
+# System control dependencies
+psutil>=5.8.0
+
+# Logging and utilities
+colorama>=0.4.4
+tqdm>=4.62.0 
