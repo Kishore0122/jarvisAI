@@ -251,17 +251,11 @@ winget install Python.Python.3.10
 4. Test thoroughly
 5. Submit a pull request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - **Mistral AI** for the 7B language model
 - **TheBloke** for GGUF quantization
 - **Vosk** for offline speech recognition
 - **LLaMA.cpp** for efficient model inference
-
-**Made with ❤️ for the AI community**
 
 *JARVIS - Your Personal AI Assistant* 
